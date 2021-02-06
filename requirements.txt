@@ -1,0 +1,7 @@
+Authlib
+flask==1.1.2
+# google-api-python-client
+# google-auth
+# virtualenv
+requests
+python-dotenv
